@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/holygrail/static/css/main.0d9f8a2a.css",
+    "main.js": "/holygrail/static/js/main.1ead0c68.js",
+    "static/js/787.9c4ad843.chunk.js": "/holygrail/static/js/787.9c4ad843.chunk.js",
+    "static/media/roti-composition.jpg": "/holygrail/static/media/roti-composition.02012b09383915431664.jpg",
+    "index.html": "/holygrail/index.html",
+    "main.0d9f8a2a.css.map": "/holygrail/static/css/main.0d9f8a2a.css.map",
+    "main.1ead0c68.js.map": "/holygrail/static/js/main.1ead0c68.js.map",
+    "787.9c4ad843.chunk.js.map": "/holygrail/static/js/787.9c4ad843.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d9f8a2a.css",
+    "static/js/main.1ead0c68.js"
+  ]
+}
